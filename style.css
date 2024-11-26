@@ -1,6 +1,3 @@
-/* Importando a fonte Lato do Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lato');
-
 /* Definindo as cores principais como variáveis CSS */
 :root {
     --white: #fff;
@@ -170,9 +167,9 @@ strong {
 
 /* Imagem de perfil */
 .img-profile {
-    width: 400px; /* Defina um tamanho específico */
-    height: 400px; /* Mesma altura para manter o círculo perfeito */
-    border-radius: 50%; /* 50% garantirá o formato circular */
+    width: 0px; /* Defina um tamanho específico */
+    height: 0px; /* Mesma altura para manter o círculo perfeito */
+    border-radius: 0%; /* 50% garantirá o formato circular */
     object-fit: cover; /* Garante que a imagem preencha o círculo corretamente */
 }
 
